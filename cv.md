@@ -46,14 +46,13 @@ I am learning the basics of HTML/CSS-coding and Javascript. I want to work for a
 
 - HTML/CSS/JS task (RS School) Memory Game: https://murimolda.github.io/JS30_3-2_Memory-Game/
 - HTML/CSS/JS task (RS School) API Gallery: https://murimolda.github.io/JS30-2-2_Images-Gallery/
-- Practical tasks of Javascript courses: creating a weather widget, an online store page, a one-page business card site.
-- Website of the Belarusian Salsa Festival: <https://github.com/murimolda/BFS4>
-- Design studio website FonDesign: <http://fondesign.by> <https://github.com/murimolda/FonDesign-site>
-- Body shaping studio website: <https://murimolda.github.io/light-body/>
-- Portfolio site for a photographer: <http://kulagin-art.com/>
 - Training project: <https://murimolda.github.io/Uber-eats/>
 - Training project: <https://murimolda.github.io/JETRO/>
 - Training project: <https://murimolda.github.io/Leonardo/>
+- Portfolio site for a photographer: <http://kulagin-art.com/>
+- Design studio website FonDesign: https://murimolda.github.io/FonDesign-site/
+- Body shaping studio website: <https://murimolda.github.io/light-body/>
+- Website of the Belarusian Salsa Festival: https://murimolda.github.io/BFS4/
 
 ---
 
