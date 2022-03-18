@@ -3,3 +3,124 @@
 ## HTML-coder, junior Front-end developer
 
 ### Contact information
+
+**Phone:** [+375 29 7022329](href="tel:+375297022329")   
+**E-mail:** [murimolda@gmail.com](href="mailto:murimolda@gmail.com")  
+**Telegram:** [murimolda](href="https://telegram.me/murimolda")  
+**Skype:** [murimolda](href="skype:murimolda?userinfo)  
+**Github:** <https://github.com/murimolda>  
+
+---
+
+### About Me
+
+A couple of years ago, I decided to change job. I have chosen to work with websites because I like to see how my code turns the screen into something visual that everyone can understand. I often come across sites and applications that are inconvenient for the user, and it seems to me that I could learn to make sites better, more convenient.  
+I am learning the basics of HTML/CSS-coding and Javascript. I want to work for an IT-company to be able to learn from the professionals who work in this field. I want to put this knowledge into practice and improve my programming skills.
+
+---
+
+### Hard Skills 
+
+- HTML5, CSS3, SCSS
+- JavaScript
+- Sublime, Visual Studio Code
+- Git, Github
+- Figma, Zeplin, Adobe Photoshop
+
+### Soft Skills
+
+- Learnability  
+- Purposefulness  
+- Planning  
+- Sociability  
+- Impartiality, tolerance  
+- Emotional intelligence, empathy  
+
+### Languages  
+
+- English - B1 / B1+  
+
+---
+
+### Experience
+
+- Practical tasks of Javascript courses: creating a weather widget, an online store page, a one-page business card site.
+- Website of the Belarusian Salsa Festival: <https://github.com/murimolda/BFS4>
+- Design studio website FonDesign: <http://fondesign.by> <https://github.com/murimolda/FonDesign-site>
+- Body shaping studio website: <https://murimolda.github.io/light-body/>
+- Portfolio site for a photographer: <http://kulagin-art.com/>
+- Training project: <https://murimolda.github.io/Uber-eats/>
+- Training project: <https://murimolda.github.io/JETRO/>
+- Training project: <https://murimolda.github.io/Leonardo/>
+
+---
+
+### Education
+
+- Minsk State College of Arts 
+  - Directing theatrical performances
+- Belarusian State Technological University
+  - International management
+
+#### Courses
+
+- "Preparatory Course for Frontend Development: HTML, CSS, and JavaScript Basics" - MyFreedom Center
+- "Frontend development course. Javascript, React and Node.JS Basics "- MyFreedom Center
+- Self-gained knowledge: books, training sites, online courses, training video channels.
+- English course with tutor
+
+---
+
+### Code example  
+
+*Function add picture "img", which stands in a block with a class "ibg", as background:*    
+
+```
+
+    function ibg() {
+        let ibg = document.querySelectorAll(".ibg");
+        for (var i = 0; i < ibg.length; i++) {
+            if (ibg[i].querySelector('img')) {
+                ibg[i].style.backgroundImage = 'url(' +bg[i].querySelector('img').getAttribute('src') + ')';
+            }
+        };
+    }
+    ibg();
+```
+
+*The function is triggered by clicking on the "arrow",* 
+*the block with the id "arrow_top", the site page returns to the top, to the beginning:*  
+
+```
+
+        let goTopBtn = document.getElementById('arrow_top');
+
+        function backToTop() {
+          if (window.pageYOffset > 0) {
+              window.scrollBy(0, -2000);
+              setTimeout(backToTop, 0);
+          }
+        };
+
+        goTopBtn.onclick = function() {
+          backToTop();
+        };
+```
+*Solution of the Codewars task *
+*Get the square of each of the digits of a user-entered number *
+* as a string:*  
+
+```
+
+        let str = prompt('Enter number');
+        function numSqrt(number){
+        let arr = number.split('');
+        let arr2 = [];
+        for(i = 0; i < arr.length; i++){
+            arr2.push(Math.pow(arr[i], 2));
+       }
+       alert(arr2.join(''));
+     }
+      numSqrt(str);```
+
+
