@@ -107,9 +107,9 @@ I am learning the basics of HTML/CSS-coding and Javascript. I want to work for a
           backToTop();
         };
 ```
-*Solution of the Codewars task *
-*Get the square of each of the digits of a user-entered number *
-* as a string:*  
+*Solution of the Codewars task.* 
+*Get the square of each of the digits of a user-entered number* 
+*as a string:*  
 
 ```
 
